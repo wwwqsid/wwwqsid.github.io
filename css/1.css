@@ -166,3 +166,51 @@ font-size: 12px;
 border: 1px solid #FF0000;border-radius: 5px;box-sizing:border-box
 }
 
+ #button_564802:Hover 
+ { 
+ background-color: #FFFFFF !important; outline: 0; 
+
+}
+ #button_564802:focus 
+ { 
+ background-color: #FFFBF0 !important; outline: 0; 
+
+}
+.button_564802 {
+position:absolute !important;
+z-index:0;
+left:206px;
+width:120px;
+top:236px;
+height:47px;
+outline: 0;
+background-color: #F0FFFF;
+font-family: "宋体";
+font-size: 12px;
+border: 1px solid #FF0000;border-radius: 5px;box-sizing:border-box
+}
+
+ #button_16451:Hover 
+ { 
+ background-color: #FFFFFF !important; outline: 0; 
+
+}
+ #button_16451:focus 
+ { 
+ background-color: #FFFBF0 !important; outline: 0; 
+
+}
+.button_16451 {
+position:absolute !important;
+z-index:0;
+left:341px;
+width:118px;
+top:237px;
+height:45px;
+outline: 0;
+background-color: #F0FFFF;
+font-family: "宋体";
+font-size: 12px;
+border: 1px solid #FF0000;border-radius: 5px;box-sizing:border-box
+}
+
