@@ -15,6 +15,16 @@ function img_58619_click(o)
  var aurl=$("img[name=img_58619_img]").attr('src'); if(aurl!=undefined) {window.open(aurl);}
 
 }
+function img_75389_click(o)
+{
+ var aurl=$("img[name=img_75389_img]").attr('src'); if(aurl!=undefined) {window.open(aurl);}
+
+}
+function img_18647_click(o)
+{
+ var aurl=$("img[name=img_18647_img]").attr('src'); if(aurl!=undefined) {window.open(aurl);}
+
+}
  $(document).ready(function(){ 
  $('.flexslider').flexslider({ 
  directionNav: true, 
